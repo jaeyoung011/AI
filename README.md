@@ -1,2 +1,1 @@
-# Dacon_NLP
-NLP
+# NLP
